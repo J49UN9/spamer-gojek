@@ -12,7 +12,7 @@ system("clear");
 sleep(2);
 echo "$green+---------------::[# GOJEK - REGISTER #]::---------------+\n";
 sleep(2);
-echo "$green+----------------------[# Mr.J49UN9_404 #]----------------------+\n";
+echo "$green+-------------------[# Mr.J49UN9_404 #]-------------------+\n";
 echo "\nNOMER HP   		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nEMAIL   		: ";

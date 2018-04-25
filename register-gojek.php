@@ -1,4 +1,4 @@
-B<?php
+<?php
 /* 
 SPAMER GOJEK
 Mr.J49UN9_404
@@ -13,13 +13,13 @@ sleep(2);
 echo "$green+---------------::[# GOJEK - REGISTER #]::---------------+\n";
 sleep(2);
 echo "$green+-------------------[# Mr.J49UN9_404 #]-------------------+\n";
-echo "\nNOMER HP   		: ";
+echo "\nNO HP   		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nEMAIL   		: ";
 $email = trim(fgets(STDIN, 1024));
-echo "\nNAMA DEPAN		: ";
+echo "\nFIRST NAME 		: ";
 $name = trim(fgets(STDIN, 1024));
-echo "\nNAMA PANJANG 		: ";
+echo "\nLAST NAME 		: ";
 $last_name = trim(fgets(STDIN, 1024));
 echo "\n$blue+---------------------[# RESULT #]---------------------+\n";
 $no = substr(trim($no), 1);
@@ -58,6 +58,6 @@ $no = substr(trim($no), 1);
 	}
 //}
 echo "$green+------------------------------------------------------+\n";
-echo "$red|      [#] $ green Mr.J49UN9_404 $ red [#]    |\n";
+echo "$cyan|      [#] Mr.J49UN9_404 [#]    |\n";
 echo "$green+------------------------------------------------------+\n";
 ?>

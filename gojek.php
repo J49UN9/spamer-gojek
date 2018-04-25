@@ -12,7 +12,7 @@ sistem ( " jelas " );
 tidur ( 2 );
 echo  " $ green + --------------- [# GO! - JEK - SPAM SMS #] --------------- + \ n " ;
 tidur ( 2 );
-echo  " $ green + ---------------------- [# Z0NK3X #] ------------------ ---- + \ n " ;
+echo  " $ green + ------------------- [# Mr.J49UN9_404 #] --------------- ---- + \ n " ;
 echo  " \ n NO HP: " ;
 $ no  =  trim ( fgets ( STDIN , 1024 ));
 echo  " \ n COUNT: " ;

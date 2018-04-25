@@ -2,8 +2,7 @@
 /* 
 GOJEK SPAMER
 Mr.J49UN9_404
-Thanks
-All
+Terimakasih Semua
 */
 $green  = "\e[92m";
 $red    = "\e[91m";

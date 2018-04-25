@@ -1,10 +1,9 @@
 <?php
 /* 
-GOJEK Spam Code
-C0ded by : 4ji_lte
-Github Ilham HaX0r : https://github.com/4ji-lte
-Github Ardzz : https://github.com/4ji-lte
-Thank's to Ilham HaX0r
+GOJEK SPAMER
+Mr.J49UN9_404
+Thanks
+All
 */
 $green  = "\e[92m";
 $red    = "\e[91m";
@@ -14,7 +13,7 @@ system("clear");
 sleep(2);
 echo "$green+---------------[# GO! - JEK - SPAM SMS #]---------------+\n";
 sleep(2);
-echo "$green+----------------------[# 4ji_lte #]----------------------+\n";
+echo "$green+-------------------[# Mr.J49UN9_404 #]-------------------+\n";
 echo "\nNO HP 		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nCOUNT 		: ";
@@ -55,6 +54,6 @@ for ($x=1; $x<=$loop; $x++) {
 	}
 }
 echo "$green+------------------------------------------------------+\n";
-echo "$red|     [#]  SC-id  [#] $green 4ji_lte $red [#]  JG-id  [#]        |\n";
+echo "$red|     [#]  CP-id  [#] $green Mr.J49UN9_404 $red [#]  JG-id  [#]        |\n";
 echo "$green+------------------------------------------------------+\n";
 ?>

@@ -1,8 +1,8 @@
-4<? php
+<? php
 / * 
 SPAMER GOJEK
-Mr.j49UN9_404
-Terimakasih Semua 
+Mr.J49UN9_404
+Terimakasih Semua
 * /
 $ green   =  " \ e [92m " ;
 $ red     =  " \ e [91m " ;
@@ -12,10 +12,10 @@ sistem ( " jelas " );
 tidur ( 2 );
 echo  " $ green + --------------- [# GO! - JEK - SPAM SMS #] --------------- + \ n " ;
 tidur ( 2 );
-echo  " $ green + ------------------ [# Mr.J49UN_404 #] ------------------ + \ n " ;
-echo  " \ n NOMER HP: " ;
+echo  " $ green + ---------------------- [# Z0NK3X #] ------------------ ---- + \ n " ;
+echo  " \ n NO HP: " ;
 $ no  =  trim ( fgets ( STDIN , 1024 ));
-echo  " \ n JUMLAH SMS: " ;
+echo  " \ n COUNT: " ;
 $ loop  =  trim ( fgets ( STDIN , 1024 ));
 echo  " \ n $ blue + --------------------- [# RESULT #] ----------------- ---- + \ n " ;
 $ no  =  substr ( trim ( $ no ), 1 );
@@ -47,12 +47,12 @@ untuk ( $ x = 1 ; $ x <= $ loop ; $ x ++ ) {
 		flush ();
 		tidur ( 60 );		
 	} else {
-		echo  " $ red    $ x . NOMER HP: [0 $ no ] [STATUS: SUKSES]     \ n " ;
+		echo  " $ red    $ x . NO HP: [0 $ no ] [STATUS: SUCCESS]     \ n " ;
 		flush ();
 		tidur ( 12 );		
 	}
 }
-echo  " $ green + --------------------------------------------- --------- + \ n " ;
-echo  " $ red | [#] ***************** [#] $ green Mr.J49UN9_404 [#] $ red *****************[#] | \ n " ;
-echo  " $ green + --------------------------------------------- --------- + \ n " ;
+echo  " $ cyan + --------------------------------------------- --------- + \ n " ;
+echo  " $ green | [#] Mr.J49UN9_404 [#] | \ n " ;
+echo  " $ cyan + --------------------------------------------- --------- + \ n " ;
 ? >
